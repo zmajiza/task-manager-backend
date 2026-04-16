@@ -59,18 +59,7 @@
     "typescript": "^5.7.3",
     "typescript-eslint": "^8.20.0"
   },
-  {
-  "compilerOptions": {
-    
-  },
-  "exclude": [
-    "node_modules",
-    "dist",
-    "**/*.spec.ts",
-    "**/*.e2e-spec.ts",
-    "test"
-  ]
-}
+
   "jest": {
     "moduleFileExtensions": [
       "js",
