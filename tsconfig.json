@@ -20,13 +20,14 @@
     "forceConsistentCasingInFileNames": true,
     "noImplicitAny": false,
     "strictBindCallApply": false,
-    "noFallthroughCasesInSwitch": false,
+    "noFallthroughCasesInSwitch": false
+  },
     "exclude": [
     "node_modules",
     "dist",
+    "test",
     "**/*.spec.ts",
-    "**/*.e2e-spec.ts",
-    "test"
+    "**/*.e2e-spec.ts"
   ]
   }
-}
+
